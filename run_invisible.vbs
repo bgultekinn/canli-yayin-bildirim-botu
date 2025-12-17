@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\BildirimBotu\run_bot.bat", 0, False
